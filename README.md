@@ -14,7 +14,7 @@ This mod replaces the original assets of Pathoschild's Tractormod to match with 
 
 *Required Mods: Pathoschild.ContentPatcher, Pathoschild.TractorMod, & Idalda's Goth Buildings*
 
-**Mod Compatibility: Windows & Android**
+**Mod Compatibility: Windows & Android**\
 Credits To: Pokegirl Gamer.
 
 # **Installation GUIDE**
